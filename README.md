@@ -28,6 +28,31 @@
 - RNF04 - O sistema deve permitir autenticação segura e redefinição de senha.
 - RNF05 - O sistema deve oferecer suporte a integrações com APIs de terceiros.
 
+# 🧩 Análise SWOT 
+
+**🟢 Forças (Strengths):**
+<p>Impacto social positivo: O projeto aborda um problema sério e urgente, com a possibilidade de melhorar a qualidade de vida de muitas pessoas e contribuir para um mundo mais sustentável.
+Apoio aos ODS: Está alinhado com importantes Objetivos de Desenvolvimento Sustentável (ODS), como Fome Zero (ODS 2), Consumo Responsável (ODS 12) e Ação Climática (ODS 13), o que pode gerar apoio de organizações internacionais e governamentais.
+Tecnologia acessível: O aplicativo oferece uma solução digital simples e acessível, o que pode atrair um grande público, especialmente entre jovens e adultos conectados.
+Conexão com iniciativas sociais: Ao conectar indivíduos e organizações, cria uma rede de apoio que pode expandir o alcance e impacto do projeto, promovendo práticas sustentáveis e doações.</p>
+
+**🔴 Fraquezas (Weaknesses):**
+<p>Necessidade de conscientização: A população ainda pode ter resistência em adotar práticas de consumo consciente, o que pode dificultar a adesão ao aplicativo e suas funcionalidades. 
+Recursos financeiros limitados: Como um projeto social, pode haver desafios para obter investimentos e garantir a sustentabilidade financeira do aplicativo no longo prazo.
+Dependência de parcerias: O sucesso depende de parcerias com ONGs, redes de distribuição de alimentos e outras entidades, o que pode ser difícil de gerenciar e manter.</p>
+
+**🔵 Oportunidades (Opportunities):**
+<p>Crescimento do interesse por sustentabilidade: A crescente preocupação com a sustentabilidade e a redução do desperdício de alimentos, especialmente entre as gerações mais jovens, pode aumentar a adesão ao projeto.
+Parcerias com empresas e governos: O projeto pode se beneficiar de parcerias com empresas de alimentos, plataformas de entrega e até com o governo, para promover o uso consciente de alimentos e apoiar iniciativas de segurança alimentar.
+Expansão para outras regiões: Embora o foco inicial seja no Brasil, há grande potencial para expansão para outros países com problemas semelhantes de fome e desperdício de alimentos. Educação e engajamento: Oferecer recursos educacionais dentro do aplicativo sobre como armazenar e usar alimentos de forma eficiente pode aumentar o impacto e engajamento da população.</p>
+
+**🟡 Ameaças (Threats):**
+<p>Concorrência com iniciativas semelhantes: Existem outros projetos e aplicativos voltados para o combate à fome e desperdício de alimentos, o que pode gerar competição por atenção e apoio.
+
+Mudanças econômicas e políticas: A instabilidade econômica e política no Brasil pode impactar a viabilidade de parcerias e investimentos necessários para a continuidade do projeto.
+
+Desafios tecnológicos: A dificuldade de acesso à tecnologia em algumas regiões do Brasil pode limitar o alcance do aplicativo, principalmente em áreas de baixa conectividade.</p>
+
 # 🚀 Tecnologias Utilizadas
 
 - Frontend: HTML,CSS, Javascript e Angula.js
